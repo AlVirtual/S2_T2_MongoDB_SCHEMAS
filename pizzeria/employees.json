@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "61b9f8259c270ac7bd24e2de"
+  },
+  "firstName": "Tobit",
+  "lastName": "Garrad",
+  "nif": "196-65-6962",
+  "phone": "684-691-7332",
+  "position": "VP Product Management"
+},{
+  "_id": {
+    "$oid": "61b9f8259c270ac7bd24e2df"
+  },
+  "firstName": "Samson",
+  "lastName": "Hartigan",
+  "nif": "106-31-5023",
+  "phone": "988-269-7587",
+  "position": "Business Systems Development Analyst"
+},{
+  "_id": {
+    "$oid": "61b9f8259c270ac7bd24e2e0"
+  },
+  "firstName": "Alwin",
+  "lastName": "Allnutt",
+  "nif": "314-92-4116",
+  "phone": "830-474-5041",
+  "position": "Sales Associate"
+},{
+  "_id": {
+    "$oid": "61b9f8259c270ac7bd24e2e1"
+  },
+  "firstName": "Eustace",
+  "lastName": "Labbe",
+  "nif": "590-04-3693",
+  "phone": "812-831-2164",
+  "position": "Quality Engineer"
+},{
+  "_id": {
+    "$oid": "61b9f8259c270ac7bd24e2e2"
+  },
+  "firstName": "Mair",
+  "lastName": "Rumney",
+  "nif": "837-53-1178",
+  "phone": "728-312-9495",
+  "position": "Speech Pathologist"
+},{
+  "_id": {
+    "$oid": "61b9f8259c270ac7bd24e2e3"
+  },
+  "firstName": "Randene",
+  "lastName": "Puckring",
+  "nif": "300-88-4386",
+  "phone": "505-287-8223",
+  "position": "Design Engineer"
+},{
+  "_id": {
+    "$oid": "61b9f8259c270ac7bd24e2e4"
+  },
+  "firstName": "Krisha",
+  "lastName": "Knoble",
+  "nif": "110-36-7674",
+  "phone": "342-140-8566",
+  "position": "Database Administrator II"
+},{
+  "_id": {
+    "$oid": "61b9f8259c270ac7bd24e2e5"
+  },
+  "firstName": "Quentin",
+  "lastName": "Gallaccio",
+  "nif": "884-40-4139",
+  "phone": "624-486-0423",
+  "position": "Staff Scientist"
+},{
+  "_id": {
+    "$oid": "61b9f8259c270ac7bd24e2e6"
+  },
+  "firstName": "Cecilia",
+  "lastName": "Simcock",
+  "nif": "287-07-2339",
+  "phone": "722-290-2816",
+  "position": "Staff Scientist"
+},{
+  "_id": {
+    "$oid": "61b9f8259c270ac7bd24e2e7"
+  },
+  "firstName": "Baldwin",
+  "lastName": "McAlister",
+  "nif": "309-52-1526",
+  "phone": "955-286-9912",
+  "position": "Senior Cost Accountant"
+}]

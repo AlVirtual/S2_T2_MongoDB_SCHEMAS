@@ -1,0 +1,243 @@
+[{
+  "_id": {
+    "$oid": "61b9f93a9c270ac7bd24e302"
+  },
+  "userID": "1",
+  "name": "Lauréna",
+  "password": "1Cmy3Psb2eQK",
+  "email": "kmulliner0@smugmug.com",
+  "birthdate": "13/06/2021",
+  "sex": "Non-binary",
+  "country": "Indonesia",
+  "postalcode": null,
+  "channel": {
+    "name": "Kilo Sierra Oscar",
+    "description": "13-800 - Building Automation and Control",
+    "created": {
+      "$date": "2021-01-01T22:08:55Z"
+    }
+  },
+  "suscriptions": [
+    "Oscar",
+    "Kilo",
+    "India"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f93a9c270ac7bd24e303"
+  },
+  "userID": "2",
+  "name": "Clémentine",
+  "password": "qudcEGNeDmv0",
+  "email": "rstapleton1@yahoo.co.jp",
+  "birthdate": "16/03/2021",
+  "sex": "Genderfluid",
+  "country": "United States",
+  "postalcode": "92153",
+  "channel": {
+    "name": "Bravo November Kilo",
+    "description": "12-800 - Interior Plants and Planters",
+    "created": {
+      "$date": "2021-06-15T00:08:18Z"
+    }
+  },
+  "suscriptions": [
+    "Hotel",
+    "Lima",
+    "Lima"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f93a9c270ac7bd24e304"
+  },
+  "userID": "3",
+  "name": "Annotée",
+  "password": "SFkvwWD",
+  "email": "carsmith2@usnews.com",
+  "birthdate": "08/03/2021",
+  "sex": "Agender",
+  "country": "Nigeria",
+  "postalcode": null,
+  "channel": {
+    "name": "Oscar Zulu Echo",
+    "description": "13-700 - Security Access and Surveillance",
+    "created": {
+      "$date": "2021-07-14T13:21:59Z"
+    }
+  },
+  "suscriptions": [
+    "Hotel",
+    "Yankee",
+    "Zulu"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f93a9c270ac7bd24e305"
+  },
+  "userID": "4",
+  "name": "Judicaël",
+  "password": "jkCZqnd1X97",
+  "email": "mwurst3@economist.com",
+  "birthdate": "18/11/2021",
+  "sex": "Male",
+  "country": "Peru",
+  "postalcode": null,
+  "channel": {
+    "name": "Bravo Delta X-ray",
+    "description": "13-165 - Aquatic Park Facilities",
+    "created": {
+      "$date": "2021-06-15T02:24:34Z"
+    }
+  },
+  "suscriptions": [
+    "Hotel",
+    "Mike",
+    "November"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f93a9c270ac7bd24e306"
+  },
+  "userID": "5",
+  "name": "Ruì",
+  "password": "qHXKvwOVZ",
+  "email": "cdonaghie4@ning.com",
+  "birthdate": "23/04/2021",
+  "sex": "Agender",
+  "country": "United States",
+  "postalcode": "38126",
+  "channel": {
+    "name": "Whiskey Charlie November",
+    "description": "2-200 - Site Preparation",
+    "created": {
+      "$date": "2021-07-24T12:22:04Z"
+    }
+  },
+  "suscriptions": [
+    "Oscar",
+    "Tango",
+    "Yankee"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f93a9c270ac7bd24e307"
+  },
+  "userID": "6",
+  "name": "Nadège",
+  "password": "9fIc8C52c",
+  "email": "wpaige5@edublogs.org",
+  "birthdate": "25/01/2021",
+  "sex": "Genderqueer",
+  "country": "Russia",
+  "postalcode": "249849",
+  "channel": {
+    "name": "Juliett Whiskey Romeo",
+    "description": "2-240 - Dewatering",
+    "created": {
+      "$date": "2021-07-19T00:33:12Z"
+    }
+  },
+  "suscriptions": [
+    "Lima",
+    "Kilo",
+    "Kilo"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f93a9c270ac7bd24e308"
+  },
+  "userID": "7",
+  "name": "Adèle",
+  "password": "RhaFIwy",
+  "email": "kruppelin6@rambler.ru",
+  "birthdate": "26/01/2021",
+  "sex": "Male",
+  "country": "China",
+  "postalcode": null,
+  "channel": {
+    "name": "Juliett Oscar Charlie",
+    "description": "12-500 - Furniture",
+    "created": {
+      "$date": "2021-08-07T08:18:17Z"
+    }
+  },
+  "suscriptions": [
+    "Zulu",
+    "Oscar",
+    "Oscar"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f93a9c270ac7bd24e309"
+  },
+  "userID": "8",
+  "name": "Cécile",
+  "password": "eMEZHE",
+  "email": "mventris7@wordpress.org",
+  "birthdate": "19/08/2021",
+  "sex": "Bigender",
+  "country": "China",
+  "postalcode": null,
+  "channel": {
+    "name": "X-ray Romeo Uniform",
+    "description": "2-230 - Site Clearing",
+    "created": {
+      "$date": "2021-03-18T15:20:17Z"
+    }
+  },
+  "suscriptions": [
+    "Hotel",
+    "Bravo",
+    "X-ray"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f93a9c270ac7bd24e30a"
+  },
+  "userID": "9",
+  "name": "Sòng",
+  "password": "bZgxRbk2n",
+  "email": "cspikins8@purevolume.com",
+  "birthdate": "25/02/2021",
+  "sex": "Genderqueer",
+  "country": "Iraq",
+  "postalcode": null,
+  "channel": {
+    "name": "Foxtrot Alfa Charlie",
+    "description": "3-350 - Concrete Finishing",
+    "created": {
+      "$date": "2020-12-19T05:21:43Z"
+    }
+  },
+  "suscriptions": [
+    "Delta",
+    "India",
+    "Mike"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f93a9c270ac7bd24e30b"
+  },
+  "userID": "10",
+  "name": "Gwenaëlle",
+  "password": "5IvQp6Ffp270",
+  "email": "crigbye9@ezinearticles.com",
+  "birthdate": "17/08/2021",
+  "sex": "Male",
+  "country": "France",
+  "postalcode": "34194 CEDEX 5",
+  "channel": {
+    "name": "Lima Uniform Mike",
+    "description": "11-280 - Hydraulic Gates and Valves",
+    "created": {
+      "$date": "2021-01-17T23:55:18Z"
+    }
+  },
+  "suscriptions": [
+    "Romeo",
+    "Juliett",
+    "Tango",
+    "Oscar",
+    "Victor"
+  ]
+}]

@@ -1,0 +1,251 @@
+[{
+  "_id": {
+    "$oid": "61b9f71e9c270ac7bd24e2a4"
+  },
+  "brandName": "X6",
+  "glassGraduation": {
+    "rightGraduation": 1.69,
+    "leftGraduation": 1.78
+  },
+  "frameColor": "Maroon",
+  "glassColor": [
+    "Pink",
+    "Goldenrod"
+  ],
+  "price": 80,
+  "frameType": "Brass",
+  "provider": {
+    "providerId": 1,
+    "Name": "Ntag"
+  },
+  "sales": {
+    "clientId": 1,
+    "clientName": "Benny",
+    "employeeName": "Frazier"
+  }
+},{
+  "_id": {
+    "$oid": "61b9f71e9c270ac7bd24e2a5"
+  },
+  "brandName": "Concorde",
+  "glassGraduation": {
+    "rightGraduation": 0.92,
+    "leftGraduation": 0.28
+  },
+  "frameColor": "Blue",
+  "glassColor": [
+    "Khaki",
+    "Fuscia"
+  ],
+  "price": 92,
+  "frameType": "Rubber",
+  "provider": {
+    "providerId": 2,
+    "Name": "Devpoint"
+  },
+  "sales": {
+    "clientId": 2,
+    "clientName": "Glen",
+    "employeeName": "Gail"
+  }
+},{
+  "_id": {
+    "$oid": "61b9f71e9c270ac7bd24e2a6"
+  },
+  "brandName": "Jetta",
+  "glassGraduation": {
+    "rightGraduation": 1.23,
+    "leftGraduation": 0.58
+  },
+  "frameColor": "Maroon",
+  "glassColor": [
+    "Turquoise",
+    "Crimson"
+  ],
+  "price": 61,
+  "frameType": "Plastic",
+  "provider": {
+    "providerId": 3,
+    "Name": "Feedspan"
+  },
+  "sales": {
+    "clientId": 3,
+    "clientName": "Layney",
+    "employeeName": "Lemmie"
+  }
+},{
+  "_id": {
+    "$oid": "61b9f71e9c270ac7bd24e2a7"
+  },
+  "brandName": "S2000",
+  "glassGraduation": {
+    "rightGraduation": 1.34,
+    "leftGraduation": 1.15
+  },
+  "frameColor": "Maroon",
+  "glassColor": [
+    "Khaki",
+    "Crimson"
+  ],
+  "price": 57,
+  "frameType": "Rubber",
+  "provider": {
+    "providerId": 4,
+    "Name": "Feedfire"
+  },
+  "sales": {
+    "clientId": 4,
+    "clientName": "Aimil",
+    "employeeName": "Shirleen"
+  }
+},{
+  "_id": {
+    "$oid": "61b9f71e9c270ac7bd24e2a8"
+  },
+  "brandName": "Courier",
+  "glassGraduation": {
+    "rightGraduation": 0.71,
+    "leftGraduation": 1.68
+  },
+  "frameColor": "Fuscia",
+  "glassColor": [
+    "Pink",
+    "Aquamarine"
+  ],
+  "price": 71,
+  "frameType": "Granite",
+  "provider": {
+    "providerId": 5,
+    "Name": "Gigabox"
+  },
+  "sales": {
+    "clientId": 5,
+    "clientName": "Clarabelle",
+    "employeeName": "Wilbur"
+  }
+},{
+  "_id": {
+    "$oid": "61b9f71e9c270ac7bd24e2a9"
+  },
+  "brandName": "GTI",
+  "glassGraduation": {
+    "rightGraduation": 1.66,
+    "leftGraduation": 1.28
+  },
+  "frameColor": "Goldenrod",
+  "glassColor": [
+    "Violet",
+    "Maroon"
+  ],
+  "price": 54,
+  "frameType": "Plexiglass",
+  "provider": {
+    "providerId": 6,
+    "Name": "Wikido"
+  },
+  "sales": {
+    "clientId": 6,
+    "clientName": "Lind",
+    "employeeName": "Gabriela"
+  }
+},{
+  "_id": {
+    "$oid": "61b9f71e9c270ac7bd24e2aa"
+  },
+  "brandName": "Legacy",
+  "glassGraduation": {
+    "rightGraduation": 0.46,
+    "leftGraduation": 1.96
+  },
+  "frameColor": "Fuscia",
+  "glassColor": [
+    "Indigo",
+    "Purple"
+  ],
+  "price": 77,
+  "frameType": "Aluminum",
+  "provider": {
+    "providerId": 7,
+    "Name": "Skilith"
+  },
+  "sales": {
+    "clientId": 7,
+    "clientName": "Paloma",
+    "employeeName": "Felita"
+  }
+},{
+  "_id": {
+    "$oid": "61b9f71e9c270ac7bd24e2ab"
+  },
+  "brandName": "300M",
+  "glassGraduation": {
+    "rightGraduation": 0.17,
+    "leftGraduation": 0.92
+  },
+  "frameColor": "Fuscia",
+  "glassColor": [
+    "Crimson",
+    "Turquoise"
+  ],
+  "price": 92,
+  "frameType": "Stone",
+  "provider": {
+    "providerId": 8,
+    "Name": "Livefish"
+  },
+  "sales": {
+    "clientId": 8,
+    "clientName": "Ellene",
+    "employeeName": "Alane"
+  }
+},{
+  "_id": {
+    "$oid": "61b9f71e9c270ac7bd24e2ac"
+  },
+  "brandName": "Capri",
+  "glassGraduation": {
+    "rightGraduation": 0.82,
+    "leftGraduation": 1.83
+  },
+  "frameColor": "Pink",
+  "glassColor": [
+    "Pink",
+    "Puce"
+  ],
+  "price": 76,
+  "frameType": "Aluminum",
+  "provider": {
+    "providerId": 9,
+    "Name": "Wordtune"
+  },
+  "sales": {
+    "clientId": 9,
+    "clientName": "Creighton",
+    "employeeName": "Erich"
+  }
+},{
+  "_id": {
+    "$oid": "61b9f71e9c270ac7bd24e2ad"
+  },
+  "brandName": "Venza",
+  "glassGraduation": {
+    "rightGraduation": 1.9,
+    "leftGraduation": 1.1
+  },
+  "frameColor": "Fuscia",
+  "glassColor": [
+    "Purple",
+    "Violet"
+  ],
+  "price": 81,
+  "frameType": "Glass",
+  "provider": {
+    "providerId": 10,
+    "Name": "Quinu"
+  },
+  "sales": {
+    "clientId": 10,
+    "clientName": "Appolonia",
+    "employeeName": "Luigi"
+  }
+}]

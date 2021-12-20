@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "61b9f98c9c270ac7bd24e31a"
+  },
+  "playlistId": 1,
+  "name": "Cygnus buccinator",
+  "status": "privada",
+  "createdTimestamp": {
+    "$date": "2021-11-10T16:57:58Z"
+  },
+  "videos": [
+    {
+      "videoId": 1,
+      "title": "Regrant"
+    },
+    {
+      "videoId": 2,
+      "title": "Domainer"
+    },
+    {
+      "videoId": 3,
+      "title": "Home Ing"
+    }
+  ],
+  "userId": 1
+},{
+  "_id": {
+    "$oid": "61b9f98c9c270ac7bd24e31b"
+  },
+  "playlistId": 2,
+  "name": "Aquila chrysaetos",
+  "status": "publica",
+  "createdTimestamp": {
+    "$date": "2020-12-19T10:19:59Z"
+  },
+  "videos": [
+    {
+      "videoId": 1,
+      "title": "Fintone"
+    },
+    {
+      "videoId": 2,
+      "title": "Andalax"
+    }
+  ],
+  "userId": 2
+},{
+  "_id": {
+    "$oid": "61b9f98c9c270ac7bd24e31c"
+  },
+  "playlistId": 3,
+  "name": "Diceros bicornis",
+  "status": "publica",
+  "createdTimestamp": {
+    "$date": "2021-07-15T05:04:58Z"
+  },
+  "videos": [
+    {
+      "videoId": 1,
+      "title": "Zontrax"
+    },
+    {
+      "videoId": 2,
+      "title": "Stim"
+    }
+  ],
+  "userId": 3
+},{
+  "_id": {
+    "$oid": "61b9f98c9c270ac7bd24e31d"
+  },
+  "playlistId": 4,
+  "name": "Bucephala clangula",
+  "status": "privada",
+  "createdTimestamp": {
+    "$date": "2021-10-06T17:37:49Z"
+  },
+  "videos": [
+    {
+      "videoId": 1,
+      "title": "Stronghold"
+    },
+    {
+      "videoId": 2,
+      "title": "Solarbreeze"
+    },
+    {
+      "videoId": 3,
+      "title": "Mat Lam Tam"
+    },
+    {
+      "videoId": 4,
+      "title": "Vagram"
+    },
+    {
+      "videoId": 5,
+      "title": "Otcom"
+    }
+  ],
+  "userId": 4
+},{
+  "_id": {
+    "$oid": "61b9f98c9c270ac7bd24e31e"
+  },
+  "playlistId": 5,
+  "name": "Eubalaena australis",
+  "status": "privada",
+  "createdTimestamp": {
+    "$date": "2021-10-20T10:13:56Z"
+  },
+  "videos": [],
+  "userId": 5
+},{
+  "_id": {
+    "$oid": "61b9f98c9c270ac7bd24e31f"
+  },
+  "playlistId": 6,
+  "name": "Kobus leche robertsi",
+  "status": "publica",
+  "createdTimestamp": {
+    "$date": "2021-09-28T23:55:03Z"
+  },
+  "videos": [
+    {
+      "videoId": 1,
+      "title": "Keylex"
+    }
+  ],
+  "userId": 6
+},{
+  "_id": {
+    "$oid": "61b9f98c9c270ac7bd24e320"
+  },
+  "playlistId": 7,
+  "name": "Gopherus agassizii",
+  "status": "privada",
+  "createdTimestamp": {
+    "$date": "2021-04-16T04:25:11Z"
+  },
+  "videos": [],
+  "userId": 7
+},{
+  "_id": {
+    "$oid": "61b9f98c9c270ac7bd24e321"
+  },
+  "playlistId": 8,
+  "name": "Coluber constrictor",
+  "status": "privada",
+  "createdTimestamp": {
+    "$date": "2020-12-29T08:06:52Z"
+  },
+  "videos": [
+    {
+      "videoId": 1,
+      "title": "Pannier"
+    },
+    {
+      "videoId": 2,
+      "title": "Alphazap"
+    },
+    {
+      "videoId": 3,
+      "title": "Matsoft"
+    },
+    {
+      "videoId": 4,
+      "title": "Bitwolf"
+    },
+    {
+      "videoId": 5,
+      "title": "Bitchip"
+    }
+  ],
+  "userId": 8
+},{
+  "_id": {
+    "$oid": "61b9f98c9c270ac7bd24e322"
+  },
+  "playlistId": 9,
+  "name": "Francolinus coqui",
+  "status": "publica",
+  "createdTimestamp": {
+    "$date": "2021-02-26T17:23:34Z"
+  },
+  "videos": [
+    {
+      "videoId": 1,
+      "title": "Ronstring"
+    },
+    {
+      "videoId": 2,
+      "title": "Solarbreeze"
+    }
+  ],
+  "userId": 9
+},{
+  "_id": {
+    "$oid": "61b9f98c9c270ac7bd24e323"
+  },
+  "playlistId": 10,
+  "name": "Morelia spilotes variegata",
+  "status": "publica",
+  "createdTimestamp": {
+    "$date": "2021-05-04T18:21:31Z"
+  },
+  "videos": [],
+  "userId": 10
+}]

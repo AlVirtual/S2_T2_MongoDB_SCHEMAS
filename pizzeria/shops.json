@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "61b9f8369c270ac7bd24e2f6"
+  },
+  "shopID": "1",
+  "name": "Iniciativa Universidad del Atlantico",
+  "adress": "5260 Anthes Trail",
+  "postalCode": "06005",
+  "city": "Badajoz",
+  "province": "Spain"
+},{
+  "_id": {
+    "$oid": "61b9f8369c270ac7bd24e2f7"
+  },
+  "shopID": "2",
+  "name": "Universidad Politécnica de Cataluna",
+  "adress": "78312 Clove Drive",
+  "postalCode": "36156",
+  "city": "Pontevedra",
+  "province": "Spain"
+},{
+  "_id": {
+    "$oid": "61b9f8369c270ac7bd24e2f8"
+  },
+  "shopID": "3",
+  "name": "Universidad Autónoma de Madrid",
+  "adress": "549 Sundown Road",
+  "postalCode": "06010",
+  "city": "Badajoz",
+  "province": "Spain"
+},{
+  "_id": {
+    "$oid": "61b9f8369c270ac7bd24e2f9"
+  },
+  "shopID": "4",
+  "name": "Barcelona Graduate School of Economics",
+  "adress": "55 Laurel Avenue",
+  "postalCode": "33209",
+  "city": "Gijon",
+  "province": "Spain"
+},{
+  "_id": {
+    "$oid": "61b9f8369c270ac7bd24e2fa"
+  },
+  "shopID": "5",
+  "name": "Universidad de Alcalá de Henares",
+  "adress": "79895 Fuller Place",
+  "postalCode": "36215",
+  "city": "Vigo",
+  "province": "Spain"
+},{
+  "_id": {
+    "$oid": "61b9f8369c270ac7bd24e2fb"
+  },
+  "shopID": "6",
+  "name": "Universidad de Santiago de Compostela",
+  "adress": "5423 Westridge Place",
+  "postalCode": "20005",
+  "city": "Donostia-San Sebastian",
+  "province": "Spain"
+},{
+  "_id": {
+    "$oid": "61b9f8369c270ac7bd24e2fc"
+  },
+  "shopID": "7",
+  "name": "La Salle Universities - International Programmes",
+  "adress": "8 School Plaza",
+  "postalCode": "08904",
+  "city": "Hospitalet De Llobregat, L'",
+  "province": "Spain"
+},{
+  "_id": {
+    "$oid": "61b9f8369c270ac7bd24e2fd"
+  },
+  "shopID": "8",
+  "name": "Universidad de Santiago de Compostela",
+  "adress": "71 Susan Point",
+  "postalCode": "37005",
+  "city": "Salamanca",
+  "province": "Spain"
+},{
+  "_id": {
+    "$oid": "61b9f8369c270ac7bd24e2fe"
+  },
+  "shopID": "9",
+  "name": "Universidad de Alcalá de Henares",
+  "adress": "3 Oakridge Drive",
+  "postalCode": "33209",
+  "city": "Gijon",
+  "province": "Spain"
+},{
+  "_id": {
+    "$oid": "61b9f8369c270ac7bd24e2ff"
+  },
+  "shopID": "10",
+  "name": "Universidad de Deusto",
+  "adress": "7 Transport Park",
+  "postalCode": "18005",
+  "city": "Granada",
+  "province": "Spain"
+}]

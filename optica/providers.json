@@ -1,0 +1,231 @@
+[{
+  "_id": {
+    "$oid": "61b9f7559c270ac7bd24e2b0"
+  },
+  "providerId": "1",
+  "name": "Reallinks",
+  "nif": "803-93-9286",
+  "adress": {
+    "street": "Golden Leaf",
+    "number": "87",
+    "flat": 1,
+    "door": 1,
+    "city": "Il’ka",
+    "postalcode": "671331",
+    "country": "RU"
+  },
+  "phone": "347-119-4396",
+  "fax": "+63 765 515 1221",
+  "brands": [
+    "Jimmy",
+    "Sonata",
+    "9-2X"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f7559c270ac7bd24e2b1"
+  },
+  "providerId": "2",
+  "name": "Wordware",
+  "nif": "286-56-5949",
+  "adress": {
+    "street": "Valley Edge",
+    "number": "97408",
+    "flat": 2,
+    "door": 2,
+    "city": "Santa Adélia",
+    "postalcode": "15950-000",
+    "country": "BR"
+  },
+  "phone": "791-282-8143",
+  "fax": "+62 425 661 9081",
+  "brands": [
+    "xD",
+    "Optima",
+    "Sierra 2500"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f7559c270ac7bd24e2b2"
+  },
+  "providerId": "3",
+  "name": "Zazio",
+  "nif": "604-54-3717",
+  "adress": {
+    "street": "Lukken",
+    "number": "91",
+    "flat": 3,
+    "door": 3,
+    "city": "Lianhe",
+    "postalcode": null,
+    "country": "CN"
+  },
+  "phone": "885-319-6487",
+  "fax": "+86 276 142 1091",
+  "brands": [
+    "LUV",
+    "300E",
+    "MKT"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f7559c270ac7bd24e2b3"
+  },
+  "providerId": "4",
+  "name": "Topicware",
+  "nif": "330-20-6875",
+  "adress": {
+    "street": "Tennyson",
+    "number": "50",
+    "flat": 4,
+    "door": 4,
+    "city": "Alajuela",
+    "postalcode": "20101",
+    "country": "CR"
+  },
+  "phone": "247-941-9058",
+  "fax": "+63 305 510 3430",
+  "brands": [
+    "88",
+    "S-Class",
+    "X5"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f7559c270ac7bd24e2b4"
+  },
+  "providerId": "5",
+  "name": "Jaxspan",
+  "nif": "280-66-7568",
+  "adress": {
+    "street": "Sullivan",
+    "number": "4476",
+    "flat": 5,
+    "door": 5,
+    "city": "Sobhādero",
+    "postalcode": "66191",
+    "country": "PK"
+  },
+  "phone": "305-260-9543",
+  "fax": "+998 787 527 5078",
+  "brands": [
+    "Mystique",
+    "Commander",
+    "Canyon"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f7559c270ac7bd24e2b5"
+  },
+  "providerId": "6",
+  "name": "Youbridge",
+  "nif": "728-86-1797",
+  "adress": {
+    "street": "Forest",
+    "number": "3236",
+    "flat": 6,
+    "door": 6,
+    "city": "Priiskovyy",
+    "postalcode": "655266",
+    "country": "RU"
+  },
+  "phone": "596-796-4851",
+  "fax": "+216 890 524 5243",
+  "brands": [
+    "Tundra",
+    "Sable",
+    "Vision"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f7559c270ac7bd24e2b6"
+  },
+  "providerId": "7",
+  "name": "Linkbuzz",
+  "nif": "191-73-0229",
+  "adress": {
+    "street": "Steensland",
+    "number": "45984",
+    "flat": 7,
+    "door": 7,
+    "city": "Nan",
+    "postalcode": "55000",
+    "country": "TH"
+  },
+  "phone": "495-774-5715",
+  "fax": "+7 681 764 4988",
+  "brands": [
+    "Trooper",
+    "330",
+    "S80"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f7559c270ac7bd24e2b7"
+  },
+  "providerId": "8",
+  "name": "Oozz",
+  "nif": "296-03-1505",
+  "adress": {
+    "street": "Eastlawn",
+    "number": "6065",
+    "flat": 8,
+    "door": 8,
+    "city": "Sakado",
+    "postalcode": "929-0417",
+    "country": "JP"
+  },
+  "phone": "758-836-1428",
+  "fax": "+251 244 315 3900",
+  "brands": [
+    "5000S",
+    "Milan",
+    "Golf"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f7559c270ac7bd24e2b8"
+  },
+  "providerId": "9",
+  "name": "Cogilith",
+  "nif": "450-92-8530",
+  "adress": {
+    "street": "Stoughton",
+    "number": "9883",
+    "flat": 9,
+    "door": 9,
+    "city": "Infantas",
+    "postalcode": "4810-578",
+    "country": "PT"
+  },
+  "phone": "802-408-6207",
+  "fax": "+420 497 537 7148",
+  "brands": [
+    "Seville",
+    "Grand Marquis",
+    "Chariot"
+  ]
+},{
+  "_id": {
+    "$oid": "61b9f7559c270ac7bd24e2b9"
+  },
+  "providerId": "10",
+  "name": "Oloo",
+  "nif": "817-50-7983",
+  "adress": {
+    "street": "Luster",
+    "number": "895",
+    "flat": 10,
+    "door": 10,
+    "city": "Shigu",
+    "postalcode": null,
+    "country": "CN"
+  },
+  "phone": "873-794-8788",
+  "fax": "+66 657 409 8667",
+  "brands": [
+    "Legend",
+    "Grand Marquis",
+    "Optima"
+  ]
+}]
